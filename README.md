@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-
+<!--
 ### 📫 How to reach me:
 
 ### 🔭 I’m currently working on
 
 ### 📖 I’ve worked on
-
+-->
 
 
 
