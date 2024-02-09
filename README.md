@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### 🚀 Tech stack:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 <br>
 
@@ -28,6 +27,7 @@ Here are some ideas to get you started:
 
 <!--
 <br>
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)
 -->
