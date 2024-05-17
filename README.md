@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ### 📟 My github stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ### 📫 How to reach me:
 
