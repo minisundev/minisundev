@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
-### 📟 My github stats
+### 📟 My stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minisundev)](https://solved.ac/minisundev/)
 <!--
 ### 📫 How to reach me:
 
