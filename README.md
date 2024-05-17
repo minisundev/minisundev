@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Minsun!!🎪🚀
 I've majored Computer Science and Mechanical Engineering!
-<div align=center>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <!--
 **minisundev/minisundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,6 +44,9 @@ Here are some ideas to get you started:
 -->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+### 📟 My github stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ### 📫 How to reach me:
 
