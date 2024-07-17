@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minisun)](https://solved.ac/minisun/)
 <br>
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/minisun?theme=wtf)-->
+![Leetcode Stats](https://leetcard.jacoblin.cool/minisun?ext=heatmap)
+<br>
 [![Hackerrank Profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/minisundev)
 
 ### 📫 How to reach me:
