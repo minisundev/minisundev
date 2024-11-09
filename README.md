@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Minsun!!💻🚀
 I've majored Computer Science and Mechanical Engineering!
+<br>
 And working as a backend developer
 
 <!--
