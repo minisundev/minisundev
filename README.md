@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Minsun!!💻🚀
 I've majored Computer Science and Mechanical Engineering!
+And working as a backend developer
 
 <!--
 **minisundev/minisundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
