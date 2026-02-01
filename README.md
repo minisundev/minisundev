@@ -1,7 +1,8 @@
-## Hi there 👋 I'm Minsun!!💻🚀
-I've majored Computer Science and Mechanical Engineering!
+## Hi there 👋 I'm Minsun☀️💻🚀
+I've majored Computer Science and Mechanical Engineering
 <br>
-And working as a full-stack developer
+and working as a Back-end Engineer
+
 
 <!--
 **minisundev/minisundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +34,7 @@ FE
 <br>
 DB
 <br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 <br>
