@@ -59,15 +59,17 @@ DB
 
 
 ### 📟 My stats
-<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
--->
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minisun)](https://solved.ac/minisun/)
+
 <br>
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/minisun?theme=wtf)-->
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/minisun?ext=heatmap)
-<br>
+
+<!--
 [![Hackerrank Profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/minisundev)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 ### 📫 How to reach me:
