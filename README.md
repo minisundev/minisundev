@@ -58,7 +58,8 @@ DB
 
 
 ### 📟 My stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minisundev&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minisun)](https://solved.ac/minisun/)
 <br>
