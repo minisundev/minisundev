@@ -59,6 +59,8 @@ DB
 
 
 ### 📟 My stats
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minisun)](https://solved.ac/minisun/)
 
 <br>
